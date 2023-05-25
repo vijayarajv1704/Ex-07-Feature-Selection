@@ -20,7 +20,7 @@ Save the data to the file
 # PROGRAM:
 ```
 Developed By: Vijayaraj V
-Reg No:212222230174
+Reg No: 212222230174
 ```
 ```py
 #importing library
